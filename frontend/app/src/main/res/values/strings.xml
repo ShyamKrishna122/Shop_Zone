@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ecom</string>
+    <string name="title_activity_main_page">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_orders">Orders</string>
+</resources>

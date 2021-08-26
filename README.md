@@ -14,5 +14,6 @@ OOPS Concept is used in this project.
 <ol>
   <li>User Authentication</li>
   <li>User Cart</li>
+  <li>Simple UI/UX</li>
   <li>and many more..</li>
 </ol>  

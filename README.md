@@ -6,7 +6,13 @@ OOPS Concept is used in this project.
 # Screenshot:
 
 <div>
-  <img src="screenshot/1.PNG"><\img>
+  <img src="screenshot/1.PNG"></img>
 </div>
 
 # Features
+
+<ol>
+  <li>User Authentication</li>
+  <li>User Cart</li>
+  <li>k</li>
+</ol>  

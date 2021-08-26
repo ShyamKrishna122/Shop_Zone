@@ -17,3 +17,7 @@ OOPS Concept is used in this project.
   <li>Simple UI/UX</li>
   <li>and many more..</li>
 </ol>  
+
+# Support
+
+If you liked the repo then kindly support it by giving it a star ⭐!
